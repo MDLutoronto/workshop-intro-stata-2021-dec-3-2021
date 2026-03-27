@@ -6,6 +6,9 @@ permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Nadia Muhe
    link: https://library.utoronto.ca/staff/nadia-muhe
+staff:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # Workshop Recording: Introduction to Stata (Dec. 3, 2021)
