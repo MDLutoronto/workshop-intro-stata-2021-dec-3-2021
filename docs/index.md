@@ -1,8 +1,14 @@
 ---
 title: "Workshop Recording: Introduction to Stata (Dec. 3, 2021)"
 layout: "home"
-description: ""
+description: "This page provides a video recording of an introductory workshop on Stata."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
+staff:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # Workshop Recording: Introduction to Stata (Dec. 3, 2021)
@@ -19,4 +25,6 @@ All computers in the Map and Data Library, and the computer labs on the fourth a
 
 [**Recording \- 1:19:00**](https://play.library.utoronto.ca/watch/3149de742246e30311c706ce1c0e4978)
 
-Technique: [Converting data formats](/technique/converting-data-formats), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [Stata](/tools/stata)**Date Created:** 2025\-01\-28**Updated:** 2025\-01\-28
+Technique: [Converting data formats](/technique/converting-data-formats), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [Stata](/tools/stata)
+
+**Date Created:** 2025\-01\-28 **Updated:** 2025\-01\-28
