@@ -25,6 +25,6 @@ All computers in the Map and Data Library, and the computer labs on the fourth a
 
 [**Recording \- 1:19:00**](https://play.library.utoronto.ca/watch/3149de742246e30311c706ce1c0e4978)
 
-Technique: [Converting data formats](/technique/converting-data-formats), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [Stata](/tools/stata)
+**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats/technique/converting-data-formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
 
 **Date Created:** 2025\-01\-28 **Updated:** 2025\-01\-28
