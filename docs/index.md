@@ -25,5 +25,6 @@ A [software license](https://www.stata.com/order/new/edu/profplus/student-pricin
 All computers in the Map and Data Library, and the computer labs on the fourth and fifth floor of Robarts Library have Stata installed.
 
 [**Recording - 1:19:00**](https://play.library.utoronto.ca/watch/3149de742246e30311c706ce1c0e4978)
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/3149de742246e30311c706ce1c0e4978" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 **Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
